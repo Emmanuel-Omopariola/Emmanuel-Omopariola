@@ -14,7 +14,7 @@
 
  🧲  I’m looking to collaborate on any project that involves the use of **Node.js, swift, React, and Blockchain**
 
- 📧 How to reach me <a href="emmanuelxtimini@gmail.com">.
+ 📧 How to reach me emmanuelxtimini@gmail.com.
  
  </div>
  
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>https://github.com/Emmanuel-Omopariola
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-Emmanuel-Omopariola.vercel.app/?user=Emmanuel-Omopariola&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
