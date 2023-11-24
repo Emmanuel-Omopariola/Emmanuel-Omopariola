@@ -10,7 +10,7 @@
 
  .💬 Ask me anything about **Node.js, React, Typescript, and Blockchain [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
 
- .🧲  I’m looking to collaborate on any project that involves the use of **Node.js, swift, React, and Blockchain**.
+ .🧲  I’m looking forward to collaborate on any project that involves the use of **Node.js, swift, React, and Blockchain**.
 
  .📧 How to reach me emmanuelxtimini@gmail.com.
  
