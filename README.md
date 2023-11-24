@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    Hi+There!+👋;+I'm+Emmanuel!
+    Hi There! 👋 I'm Emmanuel!
 </h1>
 
 <div align="center">
