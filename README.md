@@ -3,29 +3,29 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emmanuel!;" />
 </h1>
-https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/tree/main
+
 <div align="center">
  
-.🔭 Lover of open source contributions and networking.
+ 🔭 Lover of open source contributions and networking.
  
-.🌱 I’m currently into Blockchain with the use of Web3, Hyperledger and Solidity.
+ 🌱 I’m currently into **Blockchain with the use of Web3, Hyperledger and Solidity**
 
-.💬 Ask me anything about **Node.js, React, Typescript, and Blockchain [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
+ 💬 Ask me anything about **Node.js, React, Typescript, and Blockchain [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
 
-.🧲  I’m looking to collaborate on any project that involves the use of Node.js, swift, React, and Blockchain.
+ 🧲  I’m looking to collaborate on any project that involves the use of **Node.js, swift, React, and Blockchain**
 
-.📧 How to reach me emmanuelxtimini@gmail.com.
+ 📧 How to reach me <a href="emmanuelxtimini@gmail.com">.
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="emmanuelxtimini@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://Emmanuel-Omopariola.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
