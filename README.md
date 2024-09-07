@@ -1,12 +1,12 @@
 
 
 <h1 align="center">
-    Hi There! 👋 I'm Emmanuel!, a cybersecurity Analyst 🥷🏻
+    Hi There! 👋 I'm Emmanuel!, a cybersecurity Analyst  🥷🏻
 </h1>
  
  .🔭 Lover of open source contributions and networking.
  
- .🌱 I’m currently into **Cyber Security**.
+ .🌱 I’m currently into ** Cyber Security ** .
 
  .💬 Ask me anything about ** C, Python, Networking and scripting [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
 
