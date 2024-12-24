@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
     Hi There! 👋 I'm Emmanuel!, a cybersecurity Analyst  🥷🏻
 </h1>
