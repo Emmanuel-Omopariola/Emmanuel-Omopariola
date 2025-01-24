@@ -5,7 +5,7 @@
  
  .🔭 Lover of open source contributions and networking.
  
- .🌱 I’m currently into ** Cyber Security ** .
+ .🌱 I’m currently into ** Cyber Security / Blockchain ** .
 
  .💬 Ask me anything about ** C, Python, Networking and scripting [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
 
