@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Hi There! 👋 I'm Emmanuel!, a cybersecurity Analyst  🥷🏻
+    Hi There! 👋 I'm Emmanuel!, a cybersecurity student  🥷🏻
 </h1>
  
  .🔭 Lover of open source contributions and networking.
