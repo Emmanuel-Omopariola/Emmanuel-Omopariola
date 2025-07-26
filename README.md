@@ -1,12 +1,12 @@
 
 <h1 align="center">
-    _X
+    Emmaculate_X
 </h1>
  
  In Search 🔍 emmanuelxtimini@gmail.com.
  
 
-📊 **All my time on** 
+ **All my time on peace ** 
 
 
 ```text
