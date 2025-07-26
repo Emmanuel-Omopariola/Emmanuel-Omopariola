@@ -2,11 +2,13 @@
 <h1 align="center">
     Emmaculate_X
 </h1>
- 
- In Search 🔍 emmanuelxtimini@gmail.com.
+
+The Artist In Making 🎨
+
+In Search 🔍 emmanuelxtimini@gmail.com.
  
 
- **All my time on peace ** 
+ All my time on pace ✌️
 
 
 ```text
