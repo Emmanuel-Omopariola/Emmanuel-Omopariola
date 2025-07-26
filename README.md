@@ -1,20 +1,12 @@
 
 <h1 align="center">
-    Hi There! 👋 I'm Emmanuel!, a cybersecurity student  🥷🏻
+    _X
 </h1>
  
- .🔭 Lover of open source contributions and networking.
- 
- .🌱 I’m currently into ** Cyber Security / Blockchain ** .
-
- .💬 Ask me anything about ** C, Python, Networking and scripting [here](https://github.com/Emmanuel-Omopariola/Emmanuel-Omopariola/issues)**
-
- .🧲  I’m looking forward to collaborate on any project that involves **Networking, Scripting, Vulnerability Management**.
-
- .📧 How to reach me emmanuelxtimini@gmail.com.
+ In Search 🔍 emmanuelxtimini@gmail.com.
  
 
-📊 **This week I spent my time on** 
+📊 **All my time on** 
 
 
 ```text
