@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Emmaculate_X
+    emmaculate
 </h1>
 
 The Artist In Making 🎨
