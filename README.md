@@ -1,120 +1,108 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=emmaculate_eth;BLOCKCHAIN+ARCHITECT;DEFI+INNOVATOR;WEB3+BUILDER" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&height=100&lines=emmaculate_eth;CYBERPUNK+ARCHITECT;NEON+CODE+WIZARD;WEB3+PHANTOM" alt="Animated Name" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,30,24&height=100&section=header"/>
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **THE VOID ENGINEER**
-
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    BLOCKCHAIN ARCHITECT                     ║
-║              FORGING THE FUTURE IN CODE                     ║
-╚══════════════════════════════════════════════════════════════╝
+   Redefining
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmaculate_eth&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-Omopariola&bg_color=1a0d29&color=ff6ec7&line=7c3aed&point=c084fc&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-### ⚡ **DIGITAL PRESENCE**
+### **NEURAL INTERFACE STATUS**
 ```yaml
-Status: Building the decentralized future
-Location: Lagos, Nigeria 🌍
-Contact: emmanuelxtimini@gmail.com
-Mission: Turning concepts into immutable reality
+Identity: Digital Phantom
+Location: Lagos, Nigeria 
+Signal: emmanuelxtimini@gmail.com
+Status: Hunting bugs in the matrix
+Mission: Decentralizing reality through code
 ```
 
-### 🔥 **COMBAT STATISTICS**
-```text
-⌚︎ Timezone: Africa/Lagos
-🎯 Focus: Smart Contracts • DeFi • Web3 Infrastructure
+### **SYSTEM DIAGNOSTICS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" width="50" alt="Solidity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=FF6EC7&width=200&lines=Solidity+45.2%25;%5BEXPERT%5D" alt="Solidity Stats"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=7C3AED&width=200&lines=JavaScript+35.8%25;%5BNINJA%5D" alt="JavaScript Stats"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=C084FC&width=200&lines=Python+25.1%25;%5BSAGE%5D" alt="Python Stats"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=rust" width="50" alt="Rust"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=FF6EC7&width=200&lines=Rust+18.7%25;%5BMONK%5D" alt="Rust Stats"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=7C3AED&width=200&lines=TypeScript+15.2%25;%5BGHOST%5D" alt="TypeScript Stats"/>
+</div>
 
-💀 Languages of Destruction:
- Solidity                 8 hrs 45 mins       ████████████░░░░░░░░░░░░░   42.15%
- JavaScript               4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   20.34%
- Python                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   16.78%
- Rust                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   10.89%
- Go                       1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   9.54%
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6EC7&center=true&width=600&lines=Environment%3A+Linux+Terminal;Editor%3A+NeoVim+%2B+VS+Code+Matrix;Uptime%3A+24%2F7+in+the+digital+realm" alt="System Info"/>
+</div>
 
-⚔️ Weapons of Choice:
- VS Code                  12 hrs 32 mins      ████████████████░░░░░░░░░   60.43%
- Vim                      5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   24.76%
- Terminal                 3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   14.81%
-
-🖥️ Battle Station:
- Linux (Arch btw)         20 hrs 44 mins      █████████████████████████   100.0%
-```
-
-### 🌐 **WEB3 ARSENAL**
+### **CYBERPUNK ARSENAL**
 <div align="center">
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-### 💻 **TECHNICAL DOMINION**
+### **MATRIX OPERATIONS**
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&width=700&lines=emmaculate%40phantom%3A~%24+ls+-la+%2Fhome%2Fprojects%2F;defi-protocols%2F+smart-contracts%2F+nft-ecosystems%2F;dao-frameworks%2F+cross-chain-bridges%2F+yield-farming-bots%2F" alt="Directory Listing"/>
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=FF6EC7&center=true&width=700&lines=Current+Mission%3A;Architecting+next-gen+DeFi+infrastructure;Building+bulletproof+smart+contracts;Exploring+zero-knowledge+proofs;Contributing+to+Web3+revolution" alt="Mission Statement"/>
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=7C3AED&center=true&width=600&lines=emmaculate%40phantom%3A~%24+whoami;The+digital+phantom+crafting+tomorrow's+finance" alt="Whoami"/>
+</div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### **BLOCKCHAIN MASTERY LEVELS**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=FF6EC7&center=true&width=500&lines=LAYER+1+NETWORKS;Ethereum+94%25+%5BMASTER%5D;Solana+72%25+%5BEXPERT%5D;Avalanche+68%25+%5BPRO%5D;Cardano+55%25+%5BADEPT%5D;Polkadot+45%25+%5BLEARNER%5D" alt="Layer 1 Stats"/>
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=7C3AED&center=true&width=500&lines=LAYER+2+SCALING;Polygon+85%25+%5BMASTER%5D;Arbitrum+70%25+%5BEXPERT%5D;Optimism+58%25+%5BPRO%5D;Base+42%25+%5BADEPT%5D" alt="Layer 2 Stats"/>
+</div>
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Omopariola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0d29&title_color=ff6ec7&icon_color=c084fc&text_color=e0e7ff&ring_color=7c3aed"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Omopariola&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0d29&title_color=ff6ec7&text_color=e0e7ff"/>
 </div>
 
 ---
 
+### **DIGITAL FOOTPRINT**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmaculate_eth&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Omopariola&theme=tokyonight&hide_border=true&background=1a0d29&stroke=ff6ec7&ring=7c3aed&fire=c084fc&currStreakLabel=ff6ec7&sideLabels=e0e7ff"/>
 </div>
 
-### 🎯 **CURRENT OPERATIONS**
-```bash
-$ whoami
-> Blockchain Developer crafting decentralized solutions
-
-$ cat .current_focus
-> Building next-gen DeFi protocols
-> Optimizing smart contract gas efficiency  
-> Exploring Layer 2 scaling solutions
-> Contributing to Web3 ecosystem
-
-$ ls ~/projects/
-> defi-yield-optimizer/
-> nft-marketplace-v2/
-> dao-governance-system/
-> cross-chain-bridge/
-```
-
-### 📊 **SYSTEM METRICS**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmaculate_eth&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaculate_eth&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=BUILDING%20THE%20FUTURE&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,30,24&height=120&section=footer&text=DECENTRALIZING%20TOMORROW&fontSize=28&fontColor=ff6ec7&animation=fadeIn&fontAlignY=75"/>
 </div>
 
 ```ascii
-╭─────────────────────────────────────────────────────────────╮
-│  "Code is law, but great code is revolution."              │
-│                                    - emmaculate_eth        │
-╰─────────────────────────────────────────────────────────────╯
+   All Protocols Must Be Observed
 ```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emmaculate_eth&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Emmanuel-Omopariola&color=blueviolet&style=for-the-badge&label=PHANTOM+VISITS" alt="Profile Views"/>
 </div>
