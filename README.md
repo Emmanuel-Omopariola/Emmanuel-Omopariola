@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&height=100&lines=emmaculate_eth;Web3+All+Pace;The+Art+Guy;" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&height=100&lines=emmaculate_eth;Web3.0+All+Pace;That+Art+Guy;" alt="Animated Name" />
 </div>
 
 <div align="center">
